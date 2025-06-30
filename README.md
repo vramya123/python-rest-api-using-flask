@@ -50,5 +50,7 @@ Go to python terminal :
 >>
 Note: The indentation in step 5
 
-
+useful Links:-
+https://www.youtube.com/watch?v=qbLc5a9jdXo
+https://blog.teclado.com/first-rest-api-flask-postgresql-python/
 
